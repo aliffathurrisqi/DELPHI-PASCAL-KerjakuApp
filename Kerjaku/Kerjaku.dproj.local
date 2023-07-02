@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/13 20:03:04.000.607,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/13 21:13:17.000.327,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 17:13:03.000.272,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 21:32:07.000.313,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/26 23:29:57.000.376,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 12:31:44.000.041,=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 12:35:42.000.593,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitLogin.pas=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 12:35:42.000.593,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitLogin.dfm=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/27 12:35:47.000.212,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=C:\Users\aliff\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/27 13:10:47.000.510,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj</Transaction>
+    <Transaction>2023/06/27 13:20:08.000.053,=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 13:20:20.000.374,=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.pas</Transaction>
+    <Transaction>2023/06/27 13:21:20.000.334,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitMenu.dfm=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.dfm</Transaction>
+    <Transaction>2023/06/27 13:21:20.000.334,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitMenu.pas=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 23:04:16.000.427,=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 23:21:51.000.116,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitJobAdd.pas=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 23:21:51.000.116,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\UnitJobAdd.dfm=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Unit1.dfm</Transaction>
+    <Transaction>2023/06/28 23:21:54.000.772,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj</Transaction>
+    <Transaction>2023/06/29 00:16:40.000.310,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj</Transaction>
+    <Transaction>2023/06/29 00:21:26.000.631,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj</Transaction>
+    <Transaction>2023/06/29 00:28:18.000.044,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku.dproj</Transaction>
+    <Transaction>2023/07/02 19:00:06.821,E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku\Kerjaku.dproj=E:\Alfari Studio\Project\Delphi\Windows\Kerjaku\Kerjaku\Kerjaku.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

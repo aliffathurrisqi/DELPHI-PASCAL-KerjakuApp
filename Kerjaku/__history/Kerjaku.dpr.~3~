@@ -1,0 +1,14 @@
+program Kerjaku;
+
+uses
+  Vcl.Forms,
+  UnitLogin in 'UnitLogin.pas' {fLogin};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfLogin, fLogin);
+  Application.Run;
+end.
